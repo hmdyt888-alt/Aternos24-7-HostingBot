@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "Tuffbirbs.aternos.me",
+    "port": 29073,
     "version": "1.21.1"
   },
   "position": {
@@ -73,8 +73,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
